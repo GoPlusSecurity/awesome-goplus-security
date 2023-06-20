@@ -1,4 +1,5 @@
 # Awesome GoPlus Security
+<img src="images/goplus.png" alt="goplus">
 
 <a href="https://github.com/GoPlusSecurity/awesome-goplus-security"><img src="https://awesome.re/badge-flat2.svg"></a>
 <a href="https://discord.com/invite/5cvSsaT8N5"><img alt="discord invitation link" src="https://dcbadge.vercel.app/api/server/5cvSsaT8N5?style=flat"></a>
