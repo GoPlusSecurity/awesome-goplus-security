@@ -86,6 +86,7 @@ Projects contains awesome **open source** projects built with GoPlus Security AP
 - [GoPlus Security Assists DEXTools with Security Attribute Enhancement](https://goplussecurity.medium.com/goplus-security-assists-dextools-with-security-attribute-enhancement-ad3390bcd4f)
 - [GoPlus Security Enters into Strategic Partnership with Crypto Wallet OneKey](https://goplussecurity.medium.com/goplus-security-enters-into-strategic-partnership-with-crypto-wallet-onekey-9f5e92966172)
 - [GoPlus Security Enters into a Strategic Partnership with Crypto Wallet Assure](https://goplussecurity.medium.com/goplus-security-enters-into-a-strategic-partnership-with-crypto-wallet-assure-daae2966b7de)
+- [GoPlus Security Improves Web3 Security and Latency on AWS](https://aws.amazon.com/solutions/case-studies/goplus-case-study/)
 - [GoPlus Security Support Dtools for New Token Security Detection](https://goplussecurity.medium.com/goplus-security-support-dtools-for-new-token-security-detection-1b63556df1da)
 - [GoPlus Security Support TokenPocket for New Token Security Detection](https://goplussecurity.medium.com/goplus-security-support-tokenpocket-for-new-token-security-detection-db6b833003af)
 - [GoPlus Security Supports ApeSpace for Token Security Detection Feature](https://goplussecurity.medium.com/goplus-security-supports-apespace-for-token-security-detection-feature-d18ff8a66286)
