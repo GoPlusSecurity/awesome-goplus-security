@@ -15,11 +15,11 @@ GoPlus Security works as the security infrastructure for web3 by providing open,
 
 ## Projects
 Projects contains awesome **open source** projects built with GoPlus Security APIs, feel free to add yours!
-- [PlusBot](https://github.com/hardtogivename/plusbot) - A Discord bot built using GoPlus Security APIs to provides users with a range of commands that can be used to find chain IDs, scan for scams, harmful contracts, and NFTs.
-- [MEV NFT - Data Shield](https://github.com/PeterisPrieditis/ETHDenver23-DataShield) - Protecting users against crypto scams and phishing attacks! Leveraging analytics to find smart money.
-- [The Whale Wallet](https://github.com/thewhalewallet/thewhalewallet) - A wallet and account aggregator which lets users keep track of traditional fiat finances/assets and crypto assets all in one place for integrated management of user's wealth.
-- [Petting Bufficorn](https://github.com/buryhuang/ethdenver-petting-bufficorn) - Petting Bufficorn is a contract risk and security user experience project. With the visual interactions of the pet Bufficorn, user can much easier to be engagned to be warned of risks for DeFi transactions.
 - [AlgoRisk Terminal](https://github.com/andrewsiah/risk-terminal) - A robust risk management tool for trading teams in the cryptocurrency market.
+- [MEV NFT - Data Shield](https://github.com/PeterisPrieditis/ETHDenver23-DataShield) - Protecting users against crypto scams and phishing attacks! Leveraging analytics to find smart money.
+- [Petting Bufficorn](https://github.com/buryhuang/ethdenver-petting-bufficorn) - Petting Bufficorn is a contract risk and security user experience project. With the visual interactions of the pet Bufficorn, user can much easier to be engagned to be warned of risks for DeFi transactions.
+- [PlusBot](https://github.com/hardtogivename/plusbot) - A Discord bot built using GoPlus Security APIs to provides users with a range of commands that can be used to find chain IDs, scan for scams, harmful contracts, and NFTs.
+- [The Whale Wallet](https://github.com/thewhalewallet/thewhalewallet) - A wallet and account aggregator which lets users keep track of traditional fiat finances/assets and crypto assets all in one place for integrated management of user's wealth.
 
 ## User Cases
 ### Market Analysis Platform
