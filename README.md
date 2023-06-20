@@ -26,7 +26,7 @@ For using GoPlus Security API, check the [official website](https://gopluslabs.i
 
 
 ## Projects
-Projects contains awesome **open source** projects built with GoPlus Security APIs, feel free to add yours!
+Projects contains awesome **open source** projects built with GoPlus Security APIs.
 - [AlgoRisk Terminal](https://github.com/andrewsiah/risk-terminal) - A robust risk management tool for trading teams in the cryptocurrency market.
 - [MEV NFT - Data Shield](https://github.com/PeterisPrieditis/ETHDenver23-DataShield) - Protecting users against crypto scams and phishing attacks! Leveraging analytics to find smart money.
 - [Petting Bufficorn](https://github.com/buryhuang/ethdenver-petting-bufficorn) - Petting Bufficorn is a contract risk and security user experience project. With the visual interactions of the pet Bufficorn, user can much easier to be engagned to be warned of risks for DeFi transactions.
@@ -116,3 +116,6 @@ Projects contains awesome **open source** projects built with GoPlus Security AP
 - [Why Can't I Sell My Token When Others Can? GoPlus Security Explains the "Sniper" Token – Modify Personal Tax for Individual Addresses](https://goplussecurity.medium.com/why-cant-i-sell-my-token-when-others-can-250d55af0f38)
 - [Wintermute Wallet Is Exploited, Probably Due to the Vanity Wallet Created with Profanity](https://goplussecurity.medium.com/wintermute-wallet-is-exploited-probably-due-to-the-vanity-wallet-created-with-profanity-572873f43ab3)
 - [YouTube Tutorial Presents 718% Return on Staking! – The Latest Secret Web3 Phishing Scam](https://goplussecurity.medium.com/youtube-tutorial-presents-718-return-on-staking-the-latest-secret-web3-phishing-scam-49a2886a052b)
+
+## Contribute
+Contributions are most welcome, please adhere to the [contribution guidelines](CONTRIBUTING.md).
