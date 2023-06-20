@@ -7,7 +7,7 @@
 <a href="https://twitter.com/GoplusEco"><img src="https://img.shields.io/twitter/follow/GoplusEco?style=social" alt="trackgit-views" /></a>
 <a href="https://goplussecurity.medium.com/"><img src="https://img.shields.io/badge/Medium-@GoPlusSecurity-12100E?logo=medium&logoColor=white&style=plastic" alt="medium"></a>
 
-An awesome & curated list of projects and resources related to [GoPlus Security](https://gopluslabs.io/). 
+An awesome & curated list of resources related to [GoPlus Security](https://gopluslabs.io/). 
 
 ## What is GoPlus Security?
 GoPlus Security works as the security infrastructure for web3 by providing open, permissionless, user-driven security services. GoPlus is building on the security data infrastructure and security service platform, making a safer web3 Ecosystem.
