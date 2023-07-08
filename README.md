@@ -33,6 +33,7 @@ Projects contains awesome **open source** projects built with GoPlus Security AP
 - [Petting Bufficorn](https://github.com/buryhuang/ethdenver-petting-bufficorn) - Petting Bufficorn is a contract risk and security user experience project. With the visual interactions of the pet Bufficorn, user can much easier to be engagned to be warned of risks for DeFi transactions.
 - [PlusBot](https://github.com/hardtogivename/plusbot) - A Discord bot built using GoPlus Security APIs to provides users with a range of commands that can be used to find chain IDs, scan for scams, harmful contracts, and NFTs.
 - [The Whale Wallet](https://github.com/thewhalewallet/thewhalewallet) - A wallet and account aggregator which lets users keep track of traditional fiat finances/assets and crypto assets all in one place for integrated management of user's wealth.
+- [Nimbus](https://github.com/getnimbus/nimbus-ext) - A personalized portfolio for Web3 that integrated with GoPlus Security APIs to provides users more information about the risks when they make an investment in cryptocurrencies and other position protocols.
 
 ## User Cases
 ### Market Analysis Platform
@@ -44,6 +45,8 @@ Projects contains awesome **open source** projects built with GoPlus Security AP
 - [DEXTools](https://www.dextools.io) - The gateway to DEFI, real-time charts, history and all token info from blockchain. <a href="https://gopluslabs.io/#token_detection"><img src="https://img.shields.io/badge/GoPlus_Token_Security_API-42F54B" alt="medium"></a>
 - [DexCheck](https://dexcheck.io/) - An AI-enhanced blockchain analytics and data-driven trading tools on a unified platform. <a href="https://gopluslabs.io/#token_detection"><img src="https://img.shields.io/badge/GoPlus_Token_Security_API-42F54B" alt="medium"></a>
 - [GeckoTerminal from Gecko](https://www.geckoterminal.com/) - Decentralized Exchange (DEX) Tracker Tool, track real-time cryptocurrency prices, trading and transaction volume, liquidity in a pool across Ethereum, BSC, Solana network and more. <a href="https://gopluslabs.io/#token_detection"><img src="https://img.shields.io/badge/GoPlus_Token_Security_API-42F54B" alt="medium"></a>
+- [Nimbus](https://getnimbus.io/) - A personalized portfolio for Web3. Users can use it to track their portfolio, access data and analytics for decentralized lending protocols, stablecoins, margin trading platforms and DEXes. <a href="https://gopluslabs.io/#token_detection"><img src="https://img.shields.io/badge/GoPlus_Token_Security_API-42F54B" alt="medium"></a>
+
 ### DEX
 - [Flooz](https://flooz.xyz/) -  A platform to buy, trade and track any crypto. <a href="https://gopluslabs.io/#token_detection"><img src="https://img.shields.io/badge/GoPlus_Token_Security_API-42F54B" alt="medium"></a>
 - [O3swap](https://o3swap.com/) - A cross-chain aggregation protocol that enables free trading of native assets between heterogeneous chains. <a href="https://gopluslabs.io/#token_detection"><img src="https://img.shields.io/badge/GoPlus_Token_Security_API-42F54B" alt="medium"></a>
