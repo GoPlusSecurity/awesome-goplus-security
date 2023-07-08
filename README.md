@@ -61,6 +61,9 @@ Projects contains awesome **open source** projects built with GoPlus Security AP
 - [Opera Crypto Browser](https://www.opera.com/crypto/next) - A web3 browser for crypto users. <a href="https://gopluslabs.io/#aml_api"><img src="https://img.shields.io/badge/GoPlus_Malicious_Address_API-F54242" alt="medium"></a> <a href="https://gopluslabs.io/#dapp_security"><img src="https://img.shields.io/badge/GoPlus_dApp_Security_Info_API-F5AA42" alt="medium"></a>
 
 ## Blogs
+- [Tutorial on Getting the GoPlus X SafePal OAT](https://goplussecurity.medium.com/tutorial-on-getting-the-goplus-x-safepal-oat-82b1d14d991b)
+- [Blaze a Secure Trail in Web3 with GoPlus Forest Adventure](https://goplussecurity.medium.com/blaze-a-secure-trail-in-web3-with-goplus-forest-adventure-d37863dbba3f)
+- [GoPlus Security: Trailblazing Web3 Safety](https://goplussecurity.medium.com/goplus-security-trailblazing-web3-safety-b88f00825227)
 - [A Brief Analysis of the Web3 Music Platform Audius Exploit](https://goplussecurity.medium.com/a-brief-analysis-of-the-web3-music-platform-audius-exploit-79b3e9884c8d)
 - [A Brief Explanation of the Surge in Arbitrum Gas Fee on June 29, 2022](https://goplussecurity.medium.com/a-brief-explanation-of-the-surge-in-arbitrum-gas-fees-on-june-29-2022-53cfa280e44c)
 - [Analysis of Rentable NFT Proposal EIP-4907](https://goplussecurity.medium.com/analysis-of-rentable-nft-proposal-eip-4907-e64cbe1d9ca7)
