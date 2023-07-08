@@ -30,10 +30,10 @@ For using GoPlus Security API, check the [official website](https://gopluslabs.i
 Projects contains awesome **open source** projects built with GoPlus Security APIs.
 - [AlgoRisk Terminal](https://github.com/andrewsiah/risk-terminal) - A robust risk management tool for trading teams in the cryptocurrency market.
 - [MEV NFT - Data Shield](https://github.com/PeterisPrieditis/ETHDenver23-DataShield) - Protecting users against crypto scams and phishing attacks! Leveraging analytics to find smart money.
+- [Nimbus](https://github.com/getnimbus/nimbus-ext) - A personalized portfolio for Web3 that integrated with GoPlus Security APIs to provides users more information about the risks when they make an investment in cryptocurrencies and other position protocols.
 - [Petting Bufficorn](https://github.com/buryhuang/ethdenver-petting-bufficorn) - Petting Bufficorn is a contract risk and security user experience project. With the visual interactions of the pet Bufficorn, user can much easier to be engagned to be warned of risks for DeFi transactions.
 - [PlusBot](https://github.com/hardtogivename/plusbot) - A Discord bot built using GoPlus Security APIs to provides users with a range of commands that can be used to find chain IDs, scan for scams, harmful contracts, and NFTs.
 - [The Whale Wallet](https://github.com/thewhalewallet/thewhalewallet) - A wallet and account aggregator which lets users keep track of traditional fiat finances/assets and crypto assets all in one place for integrated management of user's wealth.
-- [Nimbus](https://github.com/getnimbus/nimbus-ext) - A personalized portfolio for Web3 that integrated with GoPlus Security APIs to provides users more information about the risks when they make an investment in cryptocurrencies and other position protocols.
 
 ## User Cases
 ### Market Analysis Platform
@@ -57,8 +57,6 @@ Projects contains awesome **open source** projects built with GoPlus Security AP
 - [TokenPocket](https://www.tokenpocket.pro/) - A multi-chain crypto wallet. <a href="https://gopluslabs.io/#token_detection"><img src="https://img.shields.io/badge/GoPlus_Token_Security_API-42F54B" alt="medium"></a> <a href="https://gopluslabs.io/#approval_security"><img src="https://img.shields.io/badge/GoPlus_Approval_Security_API-8A2BE2" alt="medium"></a>
 ### SocialFi
 - [Mask Network](https://mask.io/) - A portal to brings privacy and benefits from Web3 to social media. <a href="https://gopluslabs.io/#token_detection"><img src="https://img.shields.io/badge/GoPlus_Token_Security_API-42F54B" alt="medium"></a> <a href="https://gopluslabs.io/#nft_detection"><img src="https://img.shields.io/badge/GoPlus_NFT_Security_API-4251F5" alt="medium"></a>
-### Infrastructure
-- [Li.Fi](https://li.fi/) - A bridge & DEX aggregation protocol. <a href="https://gopluslabs.io/#token_detection"><img src="https://img.shields.io/badge/GoPlus_Token_Security_API-42F54B" alt="medium"></a>
 ### Browser
 - [Opera Crypto Browser](https://www.opera.com/crypto/next) - A web3 browser for crypto users. <a href="https://gopluslabs.io/#aml_api"><img src="https://img.shields.io/badge/GoPlus_Malicious_Address_API-F54242" alt="medium"></a> <a href="https://gopluslabs.io/#dapp_security"><img src="https://img.shields.io/badge/GoPlus_dApp_Security_Info_API-F5AA42" alt="medium"></a>
 
