@@ -34,6 +34,7 @@ Projects contains awesome **open source** projects built with GoPlus Security AP
 - [Petting Bufficorn](https://github.com/buryhuang/ethdenver-petting-bufficorn) - Petting Bufficorn is a contract risk and security user experience project. With the visual interactions of the pet Bufficorn, user can much easier to be engagned to be warned of risks for DeFi transactions.
 - [PlusBot](https://github.com/hardtogivename/plusbot) - A Discord bot built using GoPlus Security APIs to provides users with a range of commands that can be used to find chain IDs, scan for scams, harmful contracts, and NFTs.
 - [The Whale Wallet](https://github.com/thewhalewallet/thewhalewallet) - A wallet and account aggregator which lets users keep track of traditional fiat finances/assets and crypto assets all in one place for integrated management of user's wealth.
+- [NFT Scores](https://github.com/JisongImSorry/gmvietnam-nftscores.git) - A NFT evaluation scoring system, where user can evaluate the NFT's security with just a click.
 
 ## User Cases
 ### Market Analysis Platform
