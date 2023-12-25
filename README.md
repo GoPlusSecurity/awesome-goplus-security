@@ -37,32 +37,40 @@ Projects contains awesome **open source** projects built with GoPlus Security AP
 - [NFT Scores](https://github.com/JisongImSorry/gmvietnam-nftscores.git) - A NFT evaluation scoring system, where user can evaluate the NFT's security with just a click.
 
 ## User Cases
+
+### AI
+- [TypoGraphy AI](https://www.typography.vip/) - A well-crafted AI portal to bring Web3 knowledge and products to a broader audience.
+
+### Auditing
+- [BlockSec](https://blocksec.com/) - Conducting cutting-edge research, providing reliable security services and build insightful tools. <a href="https://gopluslabs.io/#aml_api"><img src="https://img.shields.io/badge/GoPlus_Malicious_Address_API-F54242" alt="medium"></a>
+- [SlowMist](https://slowmist.com/) - Providing services such as security audits, security consultants, red teaming, and more. <a href="https://gopluslabs.io/#aml_api"><img src="https://img.shields.io/badge/GoPlus_Malicious_Address_API-F54242" alt="medium"></a>
+
+### Browser
+- [Opera Crypto Browser](https://www.opera.com/crypto/next) - A web3 browser for crypto users. <a href="https://gopluslabs.io/#aml_api"><img src="https://img.shields.io/badge/GoPlus_Malicious_Address_API-F54242" alt="medium"></a> <a href="https://gopluslabs.io/#dapp_security"><img src="https://img.shields.io/badge/GoPlus_dApp_Security_Info_API-F5AA42" alt="medium"></a>
+
 ### Market Analysis Platform
-- [ApeSpace](https://apespace.io/) - A crypto analytics platform for all traders. <a href="https://gopluslabs.io/#token_detection"><img src="https://img.shields.io/badge/GoPlus_Token_Security_API-42F54B" alt="medium"></a>
-- [Avedex](https://avedex.cc/) - A on-chain market data information provider. <a href="https://gopluslabs.io/#token_detection"><img src="https://img.shields.io/badge/GoPlus_Token_Security_API-42F54B" alt="medium"></a>
-- [CoinBrain](https://coinbrain.com/) - Real-time Cryptocurrency Analytics and Market Insight. <a href="https://gopluslabs.io/#token_detection"><img src="https://img.shields.io/badge/GoPlus_Token_Security_API-42F54B" alt="medium"></a>
 - [CoinMarketCap](https://coinmarketcap.com/) - A platform for crypto analysis, news and updates. <a href="https://gopluslabs.io/#token_detection"><img src="https://img.shields.io/badge/GoPlus_Token_Security_API-42F54B" alt="medium"></a>
-- [CryptoGems](https://www.cryptogems.info/) - A voting platform for cryptocurrencies. <a href="https://gopluslabs.io/#token_detection"><img src="https://img.shields.io/badge/GoPlus_Token_Security_API-42F54B" alt="medium"></a>
 - [DEXTools](https://www.dextools.io) - The gateway to DEFI, real-time charts, history and all token info from blockchain. <a href="https://gopluslabs.io/#token_detection"><img src="https://img.shields.io/badge/GoPlus_Token_Security_API-42F54B" alt="medium"></a>
-- [DexCheck](https://dexcheck.io/) - An AI-enhanced blockchain analytics and data-driven trading tools on a unified platform. <a href="https://gopluslabs.io/#token_detection"><img src="https://img.shields.io/badge/GoPlus_Token_Security_API-42F54B" alt="medium"></a>
+- [DEX Screener](https://dexscreener.com/) - Realtime price charts and trading history on DEXes across Ethereum, BSC, Polygon, Avalanche, Fantom, Harmony, Cronos, Arbitrum, Optimism and more. <a href="https://gopluslabs.io/#token_detection"><img src="https://img.shields.io/badge/GoPlus_Token_Security_API-42F54B" alt="medium"></a>
 - [GeckoTerminal from Gecko](https://www.geckoterminal.com/) - Decentralized Exchange (DEX) Tracker Tool, track real-time cryptocurrency prices, trading and transaction volume, liquidity in a pool across Ethereum, BSC, Solana network and more. <a href="https://gopluslabs.io/#token_detection"><img src="https://img.shields.io/badge/GoPlus_Token_Security_API-42F54B" alt="medium"></a>
 - [Nimbus](https://getnimbus.io/) - A personalized portfolio for Web3. Users can use it to track their portfolio, access data and analytics for decentralized lending protocols, stablecoins, margin trading platforms and DEXes. <a href="https://gopluslabs.io/#token_detection"><img src="https://img.shields.io/badge/GoPlus_Token_Security_API-42F54B" alt="medium"></a>
 
-### DEX
-- [Flooz](https://flooz.xyz/) -  A platform to buy, trade and track any crypto. <a href="https://gopluslabs.io/#token_detection"><img src="https://img.shields.io/badge/GoPlus_Token_Security_API-42F54B" alt="medium"></a>
-- [O3swap](https://o3swap.com/) - A cross-chain aggregation protocol that enables free trading of native assets between heterogeneous chains. <a href="https://gopluslabs.io/#token_detection"><img src="https://img.shields.io/badge/GoPlus_Token_Security_API-42F54B" alt="medium"></a>
-
-### Wallet
-- [BitKeep](https://bitkeep.com) - A multi-chain web3 DeFi wallet for effortless trading. <a href="https://gopluslabs.io/#token_detection"><img src="https://img.shields.io/badge/GoPlus_Token_Security_API-42F54B" alt="medium"></a>
-- [ONTO Wallet](https://onto.app/) - A decentralized multi-chain gateway for identity and asset management. <a href="https://gopluslabs.io/#token_detection"><img src="https://img.shields.io/badge/GoPlus_Token_Security_API-42F54B" alt="medium"></a> <a href="https://gopluslabs.io/#approval_security"><img src="https://img.shields.io/badge/GoPlus_Approval_Security_API-8A2BE2" alt="medium"></a> <a href="https://gopluslabs.io/#nft_detection"><img src="https://img.shields.io/badge/GoPlus_NFT_Security_API-4251F5" alt="medium"></a>
-- [OneKey Wallet](https://www.onekey.so/) - An Open source crypto wallet. <a href="https://gopluslabs.io/#token_detection"><img src="https://img.shields.io/badge/GoPlus_Token_Security_API-42F54B" alt="medium"></a> <a href="https://gopluslabs.io/#dapp_security"><img src="https://img.shields.io/badge/GoPlus_dApp_Security_Info_API-F5AA42" alt="medium"></a> <a href="https://gopluslabs.io/#approval_security"><img src="https://img.shields.io/badge/GoPlus_Approval_Security_API-8A2BE2" alt="medium"></a>
-- [SafePal](https://www.safepal.com/) - A crypto hardware wallet. <a href="https://gopluslabs.io/#token_detection"><img src="https://img.shields.io/badge/GoPlus_Token_Security_API-42F54B" alt="medium"></a> <a href="https://gopluslabs.io/#nft_detection"><img src="https://img.shields.io/badge/GoPlus_NFT_Security_API-4251F5" alt="medium"></a> <a href="https://gopluslabs.io/#dapp_security"><img src="https://img.shields.io/badge/GoPlus_dApp_Security_Info_API-F5AA42" alt="medium"></a> <a href="https://gopluslabs.io/#approval_security"><img src="https://img.shields.io/badge/GoPlus_Approval_Security_API-8A2BE2" alt="medium"></a>
-- [TokenPocket](https://www.tokenpocket.pro/) - A multi-chain crypto wallet. <a href="https://gopluslabs.io/#token_detection"><img src="https://img.shields.io/badge/GoPlus_Token_Security_API-42F54B" alt="medium"></a> <a href="https://gopluslabs.io/#approval_security"><img src="https://img.shields.io/badge/GoPlus_Approval_Security_API-8A2BE2" alt="medium"></a>
+### NFT
+- [NFT Scan](https://www.nftscan.com/) - The Largest NFT Data Infrastructure. <a href="https://gopluslabs.io/#nft_detection"><img src="https://img.shields.io/badge/GoPlus_NFT_Security_API-4251F5" alt="medium"></a>
 
 ### SocialFi
 - [Mask Network](https://mask.io/) - A portal to brings privacy and benefits from Web3 to social media. <a href="https://gopluslabs.io/#token_detection"><img src="https://img.shields.io/badge/GoPlus_Token_Security_API-42F54B" alt="medium"></a> <a href="https://gopluslabs.io/#nft_detection"><img src="https://img.shields.io/badge/GoPlus_NFT_Security_API-4251F5" alt="medium"></a>
-### Browser
-- [Opera Crypto Browser](https://www.opera.com/crypto/next) - A web3 browser for crypto users. <a href="https://gopluslabs.io/#aml_api"><img src="https://img.shields.io/badge/GoPlus_Malicious_Address_API-F54242" alt="medium"></a> <a href="https://gopluslabs.io/#dapp_security"><img src="https://img.shields.io/badge/GoPlus_dApp_Security_Info_API-F5AA42" alt="medium"></a>
+
+### Tools
+- [ByteHunter](https://bytehunter.xyz/) - Web3 Personal Assets protector.
+- [Rugfree](t.me/rugfreebot) - A Tool to Scan Crypto Contracts for rug pulls.
+- [deepw3b](https://deepw3b.com/) - Crafting Crypto Solutions, Empowering Your Journey.
+
+### Wallet
+- [Bitget Wallet](https://web3.bitget.com) - A multi-chain web3 DeFi wallet for effortless trading. <a href="https://gopluslabs.io/#token_detection"><img src="https://img.shields.io/badge/GoPlus_Token_Security_API-42F54B" alt="medium"></a>
+- [OneKey Wallet](https://www.onekey.so/) - An Open source crypto wallet. <a href="https://gopluslabs.io/#token_detection"><img src="https://img.shields.io/badge/GoPlus_Token_Security_API-42F54B" alt="medium"></a> <a href="https://gopluslabs.io/#dapp_security"><img src="https://img.shields.io/badge/GoPlus_dApp_Security_Info_API-F5AA42" alt="medium"></a> <a href="https://gopluslabs.io/#approval_security"><img src="https://img.shields.io/badge/GoPlus_Approval_Security_API-8A2BE2" alt="medium"></a>
+- [SafePal](https://www.safepal.com/) - A crypto hardware wallet. <a href="https://gopluslabs.io/#token_detection"><img src="https://img.shields.io/badge/GoPlus_Token_Security_API-42F54B" alt="medium"></a> <a href="https://gopluslabs.io/#nft_detection"><img src="https://img.shields.io/badge/GoPlus_NFT_Security_API-4251F5" alt="medium"></a> <a href="https://gopluslabs.io/#dapp_security"><img src="https://img.shields.io/badge/GoPlus_dApp_Security_Info_API-F5AA42" alt="medium"></a> <a href="https://gopluslabs.io/#approval_security"><img src="https://img.shields.io/badge/GoPlus_Approval_Security_API-8A2BE2" alt="medium"></a>
+- [TokenPocket](https://www.tokenpocket.pro/) - A multi-chain crypto wallet. <a href="https://gopluslabs.io/#token_detection"><img src="https://img.shields.io/badge/GoPlus_Token_Security_API-42F54B" alt="medium"></a> <a href="https://gopluslabs.io/#approval_security"><img src="https://img.shields.io/badge/GoPlus_Approval_Security_API-8A2BE2" alt="medium"></a>
 
 ## Blogs
 - [Tutorial on Getting the GoPlus X SafePal OAT](https://goplussecurity.medium.com/tutorial-on-getting-the-goplus-x-safepal-oat-82b1d14d991b)
