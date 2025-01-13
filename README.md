@@ -12,6 +12,15 @@
 
 An awesome & curated list of resources related to [GoPlus Security](https://gopluslabs.io/). 
 
+## Table of Contents
+- [What is GoPlus Security?](#what-is-goplus-security)
+- [Quick Start](#quick-start)
+- [Supported Networks](#supported-networks)
+- [Projects](#projects)
+- [User Cases](#user-cases)
+- [Blogs](#blogs)
+- [Contribute](#contribute)
+
 ## What is GoPlus Security?
 [GoPlus Security](https://gopluslabs.io/) works as the security infrastructure for web3 by providing open, permissionless, user-driven security services. GoPlus is building on the security data infrastructure and security service platform, making a safer web3 Ecosystem.
 
@@ -25,16 +34,39 @@ GoPlus Security provides fast, reliable and convenient security services by prov
 
 For using GoPlus Security API, check the [official website](https://gopluslabs.io/), and for integrating GoPlus Security API with your applications and platforms, check the [API reference and documentation](https://docs.gopluslabs.io/).
 
+## Quick Start
+To start using GoPlus Security APIs:
+1. Visit [GoPlus Security website](https://gopluslabs.io/)
+2. Get your API key
+3. Check the [API documentation](https://docs.gopluslabs.io/)
+4. Start integrating security features into your project
+
+## Supported Networks
+GoPlus Security currently supports:
+- Ethereum
+- BNB Chain
+- Polygon
+- Arbitrum
+- Optimism
+- Avalanche
+- Fantom
+- Cronos
+- zkSync
+- And more...
 
 ## Projects
-Projects contains awesome **open source** projects built with GoPlus Security APIs.
-- [AlgoRisk Terminal](https://github.com/andrewsiah/risk-terminal) - A robust risk management tool for trading teams in the cryptocurrency market.
-- [MEV NFT - Data Shield](https://github.com/PeterisPrieditis/ETHDenver23-DataShield) - Protecting users against crypto scams and phishing attacks! Leveraging analytics to find smart money.
-- [Nimbus](https://github.com/getnimbus/nimbus-ext) - A personalized portfolio for Web3 that integrated with GoPlus Security APIs to provides users more information about the risks when they make an investment in cryptocurrencies and other position protocols.
-- [Petting Bufficorn](https://github.com/buryhuang/ethdenver-petting-bufficorn) - Petting Bufficorn is a contract risk and security user experience project. With the visual interactions of the pet Bufficorn, user can much easier to be engagned to be warned of risks for DeFi transactions.
-- [PlusBot](https://github.com/hardtogivename/plusbot) - A Discord bot built using GoPlus Security APIs to provides users with a range of commands that can be used to find chain IDs, scan for scams, harmful contracts, and NFTs.
-- [The Whale Wallet](https://github.com/thewhalewallet/thewhalewallet) - A wallet and account aggregator which lets users keep track of traditional fiat finances/assets and crypto assets all in one place for integrated management of user's wealth.
-- [NFT Scores](https://github.com/JisongImSorry/gmvietnam-nftscores.git) - A NFT evaluation scoring system, where user can evaluate the NFT's security with just a click.
+### Security Tools
+- [AlgoRisk Terminal](https://github.com/andrewsiah/risk-terminal) - A robust risk management tool for trading teams.
+- [MEV NFT - Data Shield](https://github.com/PeterisPrieditis/ETHDenver23-DataShield) - Protection against crypto scams and phishing attacks.
+- [PlusBot](https://github.com/hardtogivename/plusbot) - A Discord security bot.
+
+### Portfolio & Analytics
+- [Nimbus](https://github.com/getnimbus/nimbus-ext) - A personalized Web3 portfolio with integrated security features.
+- [The Whale Wallet](https://github.com/thewhalewallet/thewhalewallet) - Unified fiat and crypto asset management.
+
+### User Experience
+- [Petting Bufficorn](https://github.com/buryhuang/ethdenver-petting-bufficorn) - Visual risk warnings for DeFi transactions.
+- [NFT Scores](https://github.com/JisongImSorry/gmvietnam-nftscores.git) - NFT security evaluation system.
 
 ## User Cases
 
