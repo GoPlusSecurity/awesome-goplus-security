@@ -2,7 +2,7 @@
 <img src="images/goplus.png" alt="goplus">
 
 <a href="https://github.com/GoPlusSecurity/awesome-goplus-security"><img src="https://awesome.re/badge-flat2.svg"></a>
-<a href="https://discord.com/invite/5cvSsaT8N5"><img alt="discord invitation link" src="https://dcbadge.vercel.app/api/server/5cvSsaT8N5?style=flat"></a>
+<a href="https://discord.com/invite/goplussecurity"><img alt="discord invitation link" src="https://dcbadge.vercel.app/api/server/goplussecurity?style=flat"></a>
 <a href="https://t.me/GoPlusSecurity"><img src="https://img.shields.io/endpoint?color=neon&style=flat-square&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2FGoPlusSecurity"></a>
 <a href="https://twitter.com/GoplusSecurity"><img src="https://img.shields.io/twitter/follow/GoplusSecurity?style=social" alt="trackgit-views" /></a>
 <a href="https://twitter.com/GoplusEco"><img src="https://img.shields.io/twitter/follow/GoplusEco?style=social" alt="trackgit-views" /></a>
